@@ -1,4 +1,4 @@
-## Flutter Login and Registration UI
+# Flutter Login and Registration UI
 
 This Flutter project features a modern and clean design for a login and registration interface. The design is user-friendly, intuitive, and visually appealing, providing a seamless experience for users.
 Key Features:
@@ -19,7 +19,7 @@ Key Features:
         A "Sign Up" button for creating a new account.
         A link to navigate back to the login screen for existing users.
 
-### Design Highlights:
+## Design Highlights
 
     Visual Appeal: The design utilizes a minimalist approach with a soft color palette, ensuring the UI is not only functional but also aesthetically pleasing.
     User-Friendly: Clear labels and intuitive layout make it easy for users to navigate and interact with the app.
@@ -27,4 +27,4 @@ Key Features:
 
 ### Screenshot
 
-![Screenshot](images/ui.jpg)
+![Screenshot](assets/images/ui.jpg)
